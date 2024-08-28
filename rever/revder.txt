@@ -1,0 +1,26 @@
+1) Temporada
+    - Ano
+    - Id
+
+2) Tempo X Equipe
+ id Tempo
+ id equi
+ pontos
+
+3) Tempo x Pilo (Sua tabela pontuação)
+    id tempo
+    id piloto
+    id Equipe
+    pontos
+
+4) Tempo x Corrida (Circuito)
+* Trocar nome corrida para Circuito
+* rmeove campos de local
+ id tempo
+ id corrida
+ data_corrida
+ prim_colocado
+ seg_colocado
+ ter_colocado
+ 
+
